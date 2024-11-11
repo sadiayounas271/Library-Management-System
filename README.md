@@ -15,3 +15,4 @@ The application utilizes ADO.NET for SQL Server connectivity.
 - ADO.NET  
 - SQL Server  
 - System.Security.Cryptography.Algorithms(Nuget Package)
+![EDMX](https://github.com/user-attachments/assets/c77435f6-e0d9-4b94-b408-8bf33b04c17f)
